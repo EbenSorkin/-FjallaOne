@@ -35,7 +35,7 @@ Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped
 ----
 
 
-# My Font
+# FjallaOne
 
 [![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
 [![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
@@ -57,7 +57,7 @@ Don't hesitate to create images!
 
 ## About
 
-Description of you and/or organisation goes here.
+Sorkin Type makes retail and Libre fonts.
 
 ## Building
 
@@ -77,9 +77,8 @@ When you update your font (new version or new release), please report all notabl
 [Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
 Changelog example:
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+**28 Feb 2023. Version 2.13**
+- SIGNIFICANT New langauge support numbers and symbols added.
 
 ## License
 
